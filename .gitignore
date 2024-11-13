@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+
+# Xcode workspace data
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
